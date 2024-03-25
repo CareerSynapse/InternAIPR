@@ -33,7 +33,7 @@
 - [x] [Streamlit RAG “小T” Demo]([http://49.232.147.232:8501])
 - [ ] Online Search "小T" Demo
 
-### Acknowledgement🥰
+## Acknowledgement🥰
 
 [百度千帆](https://console.bce.baidu.com/qianfan/ais/console/applicationConsole/application)
 
