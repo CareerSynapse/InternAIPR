@@ -26,8 +26,8 @@
 
 ## :pick: To do:
 
-- [x] [Langchain RAG “小T” Demo](https://github.com/CareerSynapse/AIPR/blob/main/%E6%8E%A8%E5%85%8D%E5%8A%A9%E6%89%8B/Demo.ipynb)
-- [x] [Streamlit RAG “小T” Demo]([http://49.232.147.232:8501])
+- [x] Langchain RAG “小T” [Demo](https://github.com/CareerSynapse/AIPR/blob/main/%E6%8E%A8%E5%85%8D%E5%8A%A9%E6%89%8B/Demo.ipynb)
+- [x] Streamlit RAG “小T” [Demo](http://49.232.147.232:8501)
 - [ ] Online Search "小T" Demo
 
 ## Acknowledgement🥰
