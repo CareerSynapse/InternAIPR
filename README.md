@@ -27,4 +27,18 @@
 
 喜欢我们的项目？不要忘了给我们点个星星⭐️，关注我们的进展！一起，让研究生申请变得不再困难。
 
+## :pick: To do:
 
+- [x] [Langchain RAG “小T” Demo](https://github.com/CareerSynapse/AIPR/blob/main/%E6%8E%A8%E5%85%8D%E5%8A%A9%E6%89%8B/Demo.ipynb)
+- [x] [Streamlit RAG “小T” Demo]([http://49.232.147.232:8501])
+- [ ] Online Search "小T" Demo
+
+### Acknowledgement🥰
+
+[百度千帆](https://console.bce.baidu.com/qianfan/ais/console/applicationConsole/application)
+
+[GLM4](https://maas.aminer.cn/usercenter/apikeys)
+
+[OpenAI](https://platform.openai.com/docs/introduction)
+
+[InternStudio](https://studio.intern-ai.org.cn/)
