@@ -14,7 +14,8 @@
 
 除了上面提到的全方位信息支持，AIPR还包括以下内容：
 
-- **生产内容**：从职业规划到面试模拟，从复习指导到材料生成，AIPR提供一站式、个性化的研究生申请指导服务。
+- **
+生产内容**：从职业规划到面试模拟，从复习指导到材料生成，AIPR提供一站式、个性化的研究生申请指导服务。
 
 - **首个演示**：我们以哈尔滨工程大学为起点，逐步扩展我们的服务范围。跟着我们，你会发现申请研究生可以这么简单。
 
@@ -39,6 +40,8 @@
 [OpenAI](https://platform.openai.com/docs/introduction)
 
 [InternStudio](https://studio.intern-ai.org.cn/)
+
+[OpenXlab](https://openxlab.org.cn/models/InternLM/subject)
 
 ## Together with AIPR
 
